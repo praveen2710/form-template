@@ -1,6 +1,6 @@
-# formtemplate
+# survey
 
-> template for creating forms that can be uploaded to google sheets
+> Updating template to create  survey form.
 
 #### Build Setup
 

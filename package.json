@@ -1,5 +1,5 @@
 {
-  "name": "formtemplate",
+  "name": "survey",
   "version": "0.0.1",
   "author": "Praveen2710 <pbanthia@masonlive.gmu.edu>",
   "description": "template for creating forms that can be uploaded to google sheets",
@@ -22,7 +22,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "formtemplate",
+    "productName": "survey",
     "appId": "com.mahaveer.form",
     "directories": {
       "output": "build"
